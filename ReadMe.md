@@ -34,7 +34,7 @@ Extra Credit:
 How to Play
 Controls:
 W - Full Thrust
-X - Cut Engines
+S - Cut Engines
 D - Throttle Up
 A - Throttle Down
 Q - Quit
